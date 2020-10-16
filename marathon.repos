@@ -5,8 +5,8 @@ repositories:
     version: master
   navigation2:
     type: git
-    url: https://github.com/MROS-RobMoSys-ITP/navigation2.git
-    version: master
+    url: https://github.com/ros-planning/navigation2.git
+    version: foxy-devel
   pcl_msgs:
     type: git
     url: https://github.com/ros-perception/pcl_msgs.git
@@ -18,4 +18,4 @@ repositories:
   spatio_temporal_voxel_layer:
     type: git
     url: https://github.com/SteveMacenski/spatio_temporal_voxel_layer.git
-    version: eloquent-devel
+    version: foxy-devel
